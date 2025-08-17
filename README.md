@@ -4,6 +4,7 @@ Shortify is a full-stack **URL Shortener application** built with **Spring Boot,
 It allows users to register, log in, and create short, shareable links. 
 
 🌍 **Live Demo**:  [Shortify App](https://friendly-stardust-5f9657.netlify.app) 
+- ⚠️ Note: The app is hosted on Render free tier, so it may take 30–60 seconds to spin up on the first request.
 
 ---
 
