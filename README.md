@@ -1,11 +1,9 @@
-# 🔗 URL Shortener
+# 🔗 Shortify - The URL Shortener
 
-A full-stack **URL Shortener application** built with **Spring Boot, PostgreSQL, React (Vite)**, and **JWT Authentication**.  
-The app allows users to register, log in, and create short, shareable links.  
+Shortify is a full-stack **URL Shortener application** built with **Spring Boot, PostgreSQL, React (Vite)**, and **JWT Authentication**.  
+It allows users to register, log in, and create short, shareable links. 
 
-🌍 **Live Demo**:  
-- **Frontend**: [Netlify App](https://friendly-stardust-5f9657.netlify.app)  
-- **Backend API**: [Render App](https://url-shortner-dp47.onrender.com)  
+🌍 **Live Demo**:  [Shortify App](https://friendly-stardust-5f9657.netlify.app) 
 
 ---
 
